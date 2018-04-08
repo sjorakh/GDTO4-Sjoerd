@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/ResourceTest.unity
+- path: Assets/GridModule/GridModule.unity
   isLoaded: 1
   isActive: 1
